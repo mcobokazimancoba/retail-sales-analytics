@@ -1,4 +1,4 @@
-# retail-sales-analytics
+# Retail-sales-analytics
 
 End-to-end retail sales analytics project using Excel, Python, and Power BI.
 ![Dashboard Preview](project_documentation/dashboard_preview.png)
@@ -138,27 +138,6 @@ Monthly Sales Trend
 Sales by Customer Segment
 
 Interactive filtering (Region slicer)
-
-# Project Structure
-
-Retail-Sales-Analytics-Project
-│
-├── data
-│   ├── raw_data
-│   └── cleaned_data
-│
-├── excel_analysis
-│   └── sales_analysis.xlsx
-│
-├── python_analysis
-│   └── sales_analysis.ipynb
-│
-├── powerbi_dashboard
-│   └── retail_sales_dashboard.pbix
-│
-├── project_documentation
-   ├── project_summary.md
-   └── dashboard_preview.png
 
 # Conclusion
 
