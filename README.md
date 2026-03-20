@@ -109,7 +109,7 @@ The Consumer segment drives the majority of revenue.
 
 Sales show strong seasonality, peaking in November and December.
 
-#Business Recommendations
+# Business Recommendations
 
 Review discount strategies in the Furniture category to improve profitability.
 
