@@ -26,6 +26,9 @@ Project Structure
 # Project Structure 
 
 
+## Project Structure
+
+```
 Retail-Sales-Analytics-Project
 │
 ├── data
@@ -46,6 +49,7 @@ Retail-Sales-Analytics-Project
 │   └── dashboard_preview.png
 │
 └── README.md
+```
 
 Conclusion
 
