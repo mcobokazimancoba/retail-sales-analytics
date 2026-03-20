@@ -23,35 +23,7 @@ Dashboard Features
 
 Project Structure
 
-# Project Structure 
-
-
-## Project Structure
-
-```
-Retail-Sales-Analytics-Project
-│
-├── data
-│   ├── raw_data
-│   └── cleaned_data
-│
-├── excel_analysis
-│   └── sales_analysis.xlsx
-│
-├── python_analysis
-│   └── sales_analysis.ipynb
-│
-├── powerbi_dashboard
-│   └── retail_sales_dashboard.pbix
-│
-├── project_documentation
-│   ├── project_summary.md
-│   └── dashboard_preview.png
-│
-└── README.md
-```
-
-Conclusion
+conclusion
 
 # Project Overview
 
@@ -166,6 +138,31 @@ Monthly Sales Trend
 Sales by Customer Segment
 
 Interactive filtering (Region slicer)
+
+# Project Structure
+
+```
+Retail-Sales-Analytics-Project
+│
+├── data
+│   ├── raw_data
+│   └── cleaned_data
+│
+├── excel_analysis
+│   └── sales_analysis.xlsx
+│
+├── python_analysis
+│   └── sales_analysis.ipynb
+│
+├── powerbi_dashboard
+│   └── retail_sales_dashboard.pbix
+│
+├── project_documentation
+│   ├── project_summary.md
+│   └── dashboard_preview.png
+│
+└── README.md
+```
 
 # Conclusion
 
