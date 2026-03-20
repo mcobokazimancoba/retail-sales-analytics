@@ -1,6 +1,6 @@
 # Retail-sales-analytics
 
-End-to-end retail sales analytics project using Excel, Python, and Power BI.
+  End-to-end retail sales analytics project using Excel, Python, and Power BI.
 ![Dashboard Preview](project_documentation/dashboard_preview.png)
 
 # Table of Contents
