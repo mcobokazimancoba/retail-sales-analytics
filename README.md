@@ -3,7 +3,7 @@
 End-to-end retail sales analytics project using Excel, Python, and Power BI.
 ![Dashboard Preview](project_documentation/dashboard_preview.png)
 
-#Table of Contents
+# Table of Contents
 
 Project Overview
 
@@ -25,13 +25,13 @@ Project Structure
 
 Conclusion
 
-#Project Overview
+# Project Overview
 
 This project presents an end-to-end analysis of retail sales data to uncover insights about business performance across regions, product categories, customer segments, and time.
 
 The objective is to transform raw transactional data into actionable insights using data cleaning, exploratory analysis, and visualization techniques.
 
-#Dataset
+# Dataset
 
 The dataset contains approximately 10,000 retail transactions, including:
 
@@ -51,7 +51,7 @@ Discount
 
 Quantity
 
-#Tools & Technologies
+# Tools & Technologies
 
 Excel – exploratory data analysis (pivot tables, initial insights)
 
@@ -61,7 +61,7 @@ Power BI – dashboard development and visualization
 
 DAX – creation of analytical measures
 
-#Data Preparation
+# Data Preparation
 
 Data preparation was performed using Python (Pandas):
 
@@ -83,7 +83,7 @@ profit_margin
 
 The cleaned dataset was then used for analysis and visualization.
 
-#Key Metrics
+# Key Metrics
 
 The dashboard focuses on four main KPIs:
 
@@ -95,7 +95,7 @@ Total Orders
 
 Profit Margin
 
-#Key Insights
+# Key Insights
 
 The West region generates the highest sales and profit, indicating strong market performance.
 
@@ -119,7 +119,7 @@ Focus on promoting Technology products due to strong profit margins.
 
 Prepare inventory and campaigns for peak seasons (November–December).
 
-#Dashboard Features
+# Dashboard Features
 
 The Power BI dashboard includes:
 
@@ -139,7 +139,7 @@ Sales by Customer Segment
 
 Interactive filtering (Region slicer)
 
-#Project Structure
+# Project Structure
 
 Retail-Sales-Analytics-Project
 │
@@ -160,6 +160,6 @@ Retail-Sales-Analytics-Project
    ├── project_summary.md
    └── dashboard_preview.png
 
-#Conclusion
+# Conclusion
 
 This project demonstrates the complete analytical workflow from raw data to business insight. It highlights the ability to clean data, analyze trends, and communicate results through an interactive dashboard.
